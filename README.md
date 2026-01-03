@@ -111,8 +111,12 @@
  
 ## 7. Storage IO Characterization
   * 2008 - [Characterization of storage workload traces from production windows servers](https://ieeexplore.ieee.org/abstract/document/4636097), IISWC '08
+  * 2010 - [Benchmarking cloud serving systems with YCSB](https://dl.acm.org/doi/10.1145/1807128.1807152), SoCC '10
+    > :octocat: [GitHub](https://github.com/brianfrankcooper/YCSB)
   * 2010 - [Workload characterization of a leadership class storage cluster](https://ieeexplore.ieee.org/abstract/document/5668066), PDSW '10
   * 2018 - [I/O characteristics discovery in cloud storage systems](https://ieeexplore.ieee.org/abstract/document/8457797), CLOUD '18
+  * 2020 - [Characterizing, Modeling, and Benchmarking RocksDB Key-Value Workloads at Facebook](https://www.usenix.org/conference/fast20/presentation/cao-zhichao), FAST '20
+    > :octocat: [GitHub](https://github.com/facebook/rocksdb/wiki/RocksDB-Trace,-Replay,-Analyzer,-and-Workload-Generation)
   * 2022 - [Extracting and characterizing I/O behavior of HPC workloads](https://ieeexplore.ieee.org/abstract/document/9912707), CLUSTER '22
   * 2022 - [Data Storage System Requirement for Autonomous Vehicle](https://ieeexplore.ieee.org/abstract/document/10003785), ICCAS '22
   * 2023 - [Characterization of i/o behaviors in cloud storage workloads](https://ieeexplore.ieee.org/abstract/document/10089497), ToC, '23
