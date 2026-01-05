@@ -105,7 +105,9 @@
 
 ## 6. Database, Timeseries, VectorDB, Lookup, Indexes on Storage  
   * 2022 - [Accelerating RocksDB for Small-Zone ZNS SSDs by Parallel I/O](https://dl.acm.org/doi/10.1145/3564695.3564774), Middleware '22
-  * 2024 - [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/10.1145/3637488), ACM Transactions on Architecture and Code Optimization
+  * 2023 - [WALTZ: Leveraging Zone Append to Tighten the Tail Latency of LSM Tree on ZNS SSD](https://dl.acm.org/doi/10.14778/3611479.3611495), VLDB '23
+  * 2023 - [SplitZNS: Towards an Efficient LSM-Tree on Zoned Namespace SSDs](https://dl.acm.org/doi/10.1145/3608476), ACM Transactions on Architecture and Code Optimization '23
+  * 2024 - [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/10.1145/3637488), ACM Transactions on Architecture and Code Optimization '24
   * 2024 - [Zone-Aware Persistent Deletion for Key-Value Store Engine](https://ieeexplore.ieee.org/document/10693671), NVMSA '24
   * 2024 - [ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends](https://dl.acm.org/doi/10.1145/3642963.3652203), CHEOPS '24
  
@@ -141,6 +143,7 @@
       
 ## 9. Other applications
   * 2023 - [zCeph: Achieving High Performance On Storage System Using Small Zoned ZNS SSD](https://dl.acm.org/doi/10.1145/3555776.3577758), SAC '23
+  * 2023 - [Improving Storage Systems Using Machine Learning](https://dl.acm.org/doi/10.1145/3568429), ToS '23
     
 ## 10. Books, Courses: 
   * [CSCI 333, Storage Systems, Williams College](https://www.cs.williams.edu/~jannen/teaching/s21/cs333/index.html)
