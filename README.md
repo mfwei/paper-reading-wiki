@@ -105,6 +105,7 @@
     > :octocat: [GitHub](https://github.com/stonet-research/isol-bench)
 
 ## 6. Database, Timeseries, VectorDB, Lookup, Indexes on Storage  
+  * 2020 - [MyRocks: LSM-tree database storage engine serving Facebook's social graph](https://dl.acm.org/doi/10.14778/3415478.3415546), VLDB '20
   * 2022 - [Accelerating RocksDB for Small-Zone ZNS SSDs by Parallel I/O](https://dl.acm.org/doi/10.1145/3564695.3564774), Middleware '22
   * 2023 - [WALTZ: Leveraging Zone Append to Tighten the Tail Latency of LSM Tree on ZNS SSD](https://dl.acm.org/doi/10.14778/3611479.3611495), VLDB '23
   * 2023 - [SplitZNS: Towards an Efficient LSM-Tree on Zoned Namespace SSDs](https://dl.acm.org/doi/10.1145/3608476), ACM Transactions on Architecture and Code Optimization '23
