@@ -44,6 +44,7 @@
   * 2024 - [We Ain’t Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash SSDs](https://www.usenix.org/conference/fast24/presentation/jun), FAST '24
     
   ### 1.3 Others
+  * 2013 - [Extending the lifetime of flash-based storage through reducing write amplification from file systems](https://dl.acm.org/doi/10.5555/2591272.2591299), FAST '13
   * 2020 - [How to Copy Files](https://www.usenix.org/conference/fast20/presentation/zhan), FAST '20
   * 2021 - [Copy-on-Abundant-Write for Nimble File System Clones](https://dl.acm.org/doi/10.1145/3423495), ACM Transactions on Storage
     > :earth_americas:	[BetrFS](https://www.betrfs.org/) - A write-optimized, general purpose Linux file system.
