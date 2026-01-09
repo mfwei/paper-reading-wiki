@@ -126,8 +126,9 @@
   * 2023 - [Characterization of i/o behaviors in cloud storage workloads](https://ieeexplore.ieee.org/abstract/document/10089497), ToC, '23
   * 2024 - [Quantitative Analysis of Storage Requirement for Autonomous Vehicles](https://dl.acm.org/doi/abs/10.1145/3655038.3665948), HotStorage '24
   * 2025 - [IO Characterizing Study of Offloading LLM Models](https://dl.acm.org/doi/pdf/10.1145/3719330.3721230), CHEOPS '25
+  * 2025 - [LLM Training Workload IO Characteristics](https://ieeexplore.ieee.org/abstract/document/11044158), ISCAS '25
 
-## 8. SNIA/NVMe weblinks   
+## 8. SNIA/NVMe weblinks
   * [A Quick Tour of NVM Express (NVMe)](https://metebalci.com/blog/a-quick-tour-of-nvm-express-nvme/)
   * [NVMe® Computational Storage: From Addressing Ransomware to Improving Bandwidth](https://nvmexpress.org/resource/nvme-computational-storage-from-addressing-ransomware-to-improving-bandwidth/)
   * [RocksDB* db_bench Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors Based Platform](https://www.intel.com/content/www/us/en/content-details/686417/rocksdb-db-bench-tuning-guide-on-3rd-generation-intel-xeon-scalable-processors-based-platform.html)
