@@ -1,4 +1,4 @@
-# Welcome to my ZNS paper wiki!
+# Welcome to my storage paper wiki!
 
 * :bulb: [Johnson's Secret Recepits](https://www.csie.ntu.edu.tw/~johnson/Notebook.php)
 
