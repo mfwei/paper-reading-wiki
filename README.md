@@ -34,7 +34,8 @@
 
   ### 1.2 Filesystem Aging
   * 1997 - [File system aging—increasing the relevance of file system benchmarks](https://dl.acm.org/doi/10.1145/258612.258689), SIGMETRICS '97
-  * 2009 - [Generating Realistic Impressions for File-System Benchmarking](https://dl.acm.org/doi/10.1145/1629080.1629086), ACM Transactions on Storage, [FAST '09](https://www.usenix.org/legacy/event/fast09/)
+  * 2008 - [A nine year study of file system and storage benchmarking](https://dl.acm.org/doi/10.1145/1367829.1367831), ToS '08
+  * 2009 - [Generating Realistic Impressions for File-System Benchmarking](https://dl.acm.org/doi/10.1145/1629080.1629086), ToS '09, [FAST '09](https://www.usenix.org/legacy/event/fast09/)
     > :octocat: [GitHub](https://github.com/ionathanch/impressions)
   * 2017 - [How to Fragment Your File System](https://www.usenix.org/publications/login/summer2017/conway), ;login: issue: Summer 2017, Vol. 42, No. 2
   * 2017 - [File Systems Fated for Senescence? Nonsense, Says Science!](https://www.usenix.org/conference/fast17/technical-sessions/presentation/conway), FAST '17
@@ -42,9 +43,17 @@
     > :octocat: [GitHub](https://github.com/saurabhkadekodi/geriatrix)
   * 2019 - [Filesystem Aging: It’s more Usage than Fullness](https://www.usenix.org/conference/hotstorage19/presentation/conway), HotStorage '19
   * 2024 - [We Ain’t Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash SSDs](https://www.usenix.org/conference/fast24/presentation/jun), FAST '24
+
+  ### 1.3 Metadata
+  * 2007 - [A five-year study of file-system metadata](https://dl.acm.org/doi/10.1145/1288783.1288788), ToS '07
+  * 2013 - [FSMAC: A file system metadata accelerator with non-volatile memory](https://ieeexplore.ieee.org/document/6558440), MSST '13
+  * 2015 - [Performance Optimization for Managing Massive Numbers of Small Files in Distributed File Systems](https://ieeexplore.ieee.org/document/6977977), TPDS '15
+  * 2015 - [Accelerating File System Metadata Access with Byte-Addressable Nonvolatile Memory](https://dl.acm.org/doi/10.1145/2766453), ToS '15
+  * 2025 - [Double-Metadata-Cache: An Efficient Metadata Caching Architecture for Distributed File Systems](https://www.computer.org/csdl/proceedings-article/icpads/2025/11323201/2dgO9DmZuzS), ICPADS '25
     
-  ### 1.3 Others
+  ### 1.4 Others
   * 2013 - [Extending the lifetime of flash-based storage through reducing write amplification from file systems](https://dl.acm.org/doi/10.5555/2591272.2591299), FAST '13
+  * 2018 - [On the Lifecycle of the File](https://dl.acm.org/doi/10.1145/3295463), ToS '18
   * 2020 - [How to Copy Files](https://www.usenix.org/conference/fast20/presentation/zhan), FAST '20
   * 2021 - [Copy-on-Abundant-Write for Nimble File System Clones](https://dl.acm.org/doi/10.1145/3423495), ACM Transactions on Storage
     > :earth_americas:	[BetrFS](https://www.betrfs.org/) - A write-optimized, general purpose Linux file system.
@@ -101,6 +110,8 @@
     
 ## 5. Flash I/O Scheduling and quality-of-service/multi-tenancy 
   * 2023 - [Achieving Performance Isolation in Docker Environments with ZNS SSDs](https://ieeexplore.ieee.org/document/10254344), NVMSA '23
+  * 2023 - [Do we still need IO schedulers for low-latency disks?](https://dl.acm.org/doi/10.1145/3599691.3603400), HotStorage '23
+    > :clipboard:	[Slides Show](https://www.hotstorage.org/2023/slides/do-we-need-io-schedulers.pdf)
   * 2025 - [Does Linux Provide Performance Isolation for NVMe SSDs? Configuring cgroups for I/O Control in the NVMe Era](https://atlarge-research.com/pdfs/2025-iiswc-cgroups.pdf), IISWC '25
     > :octocat: [GitHub](https://github.com/stonet-research/isol-bench)
 
