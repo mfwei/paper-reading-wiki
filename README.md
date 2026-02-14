@@ -45,6 +45,7 @@
   * 2024 - [We Ain’t Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash SSDs](https://www.usenix.org/conference/fast24/presentation/jun), FAST '24
 
   ### 1.3 Metadata
+  * 2003 - [Metadata Efficiency in Versioning File Systems](https://www.usenix.org/conference/fast-03/metadata-efficiency-versioning-file-systems), FAST '03
   * 2007 - [A five-year study of file-system metadata](https://dl.acm.org/doi/10.1145/1288783.1288788), ToS '07
   * 2013 - [FSMAC: A file system metadata accelerator with non-volatile memory](https://ieeexplore.ieee.org/document/6558440), MSST '13
   * 2015 - [Performance Optimization for Managing Massive Numbers of Small Files in Distributed File Systems](https://ieeexplore.ieee.org/document/6977977), TPDS '15
