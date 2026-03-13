@@ -128,6 +128,7 @@
 ## 7. Storage IO Characterization
   * 2000 - [A comparison of file system workloads](https://dl.acm.org/doi/10.5555/1267724.1267728), ATEC '00
   * 2008 - [Characterization of storage workload traces from production windows servers](https://ieeexplore.ieee.org/abstract/document/4636097), IISWC '08
+  * 2009 - [A performance evaluation of scientific I/O workloads on Flash-based SSDs](https://ieeexplore.ieee.org/document/5289148), CLUSTR '09
   * 2010 - [Benchmarking cloud serving systems with YCSB](https://dl.acm.org/doi/10.1145/1807128.1807152), SoCC '10
     > :octocat: [GitHub](https://github.com/brianfrankcooper/YCSB)
   * 2010 - [Workload characterization of a leadership class storage cluster](https://ieeexplore.ieee.org/abstract/document/5668066), PDSW '10
