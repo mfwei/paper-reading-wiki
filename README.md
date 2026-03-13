@@ -126,6 +126,7 @@
   * 2024 - [ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends](https://dl.acm.org/doi/10.1145/3642963.3652203), CHEOPS '24
  
 ## 7. Storage IO Characterization
+  * 2000 - [A comparison of file system workloads](https://dl.acm.org/doi/10.5555/1267724.1267728), ATEC '00
   * 2008 - [Characterization of storage workload traces from production windows servers](https://ieeexplore.ieee.org/abstract/document/4636097), IISWC '08
   * 2010 - [Benchmarking cloud serving systems with YCSB](https://dl.acm.org/doi/10.1145/1807128.1807152), SoCC '10
     > :octocat: [GitHub](https://github.com/brianfrankcooper/YCSB)
