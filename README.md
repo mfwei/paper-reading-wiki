@@ -48,6 +48,8 @@
   * 2003 - [Metadata Efficiency in Versioning File Systems](https://www.usenix.org/conference/fast-03/metadata-efficiency-versioning-file-systems), FAST '03
   * 2007 - [A five-year study of file-system metadata](https://dl.acm.org/doi/10.1145/1288783.1288788), ToS '07
   * 2013 - [FSMAC: A file system metadata accelerator with non-volatile memory](https://ieeexplore.ieee.org/document/6558440), MSST '13
+  * 2013 - [TABLEFS: Enhancing Metadata Efﬁciency in the Local File System](https://www.usenix.org/system/files/conference/atc13/atc13-ren.pdf), ATC '13
+     > :film_strip: [Presentation](https://www.youtube.com/watch?v=89T9dekz5T8)
   * 2015 - [Performance Optimization for Managing Massive Numbers of Small Files in Distributed File Systems](https://ieeexplore.ieee.org/document/6977977), TPDS '15
   * 2015 - [Accelerating File System Metadata Access with Byte-Addressable Nonvolatile Memory](https://dl.acm.org/doi/10.1145/2766453), ToS '15
   * 2025 - [Double-Metadata-Cache: An Efficient Metadata Caching Architecture for Distributed File Systems](https://www.computer.org/csdl/proceedings-article/icpads/2025/11323201/2dgO9DmZuzS), ICPADS '25
