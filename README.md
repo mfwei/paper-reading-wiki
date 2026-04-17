@@ -191,6 +191,7 @@
 
 ## 11. Other Lists
   * [hegongshan/File-System-Paper](https://github.com/hegongshan/File-System-Paper)
+  * [hegongshan/Storage-for-AI-Paper](https://github.com/hegongshan/Storage-for-AI-Paper)
   * [sg20180546/ZNS-awesome-paper](https://github.com/sg20180546/ZNS-awesome-paper)
   * [Krien/ZNS-awesome-paper](https://github.com/Krien/ZNS-awesome-paper)
     
