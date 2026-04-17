@@ -15,6 +15,7 @@
 8. [SNIA/NVMe weblinks](#8-snianvme-weblinks)
 9. [Other Applications](#9-other-applications)
 10. [Courses](#10-books-courses)
+11. [Other Lists](#11-other-lists)
 
 ## 1. File Systems
   ### 1.1 Btrfs
@@ -187,4 +188,10 @@
     > * Chapter 10: Writeback
     > * Chapter 11: Reclaim and Memory Pressure
     > * Chapter 12: Swap Memory
+
+## 11. Other Lists
+  * [hegongshan/File-System-Paper](https://github.com/hegongshan/File-System-Paper)
+  * [sg20180546/ZNS-awesome-paper](https://github.com/sg20180546/ZNS-awesome-paper)
+  * [Krien/ZNS-awesome-paper](https://github.com/Krien/ZNS-awesome-paper)
+    
 ***
