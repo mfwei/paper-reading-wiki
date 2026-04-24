@@ -33,6 +33,7 @@
   * 2013 - [The Btrfs filesystem: An introduction](https://lwn.net/Articles/576276/), LWN.net
   * 2013 - [BTRFS: The Linux B-tree filesystem](https://dl.acm.org/doi/10.1145/2501620.2501623), ACM Transactions on Storage
   * 2016 - [Btrfs and high-speed devices](https://lwn.net/Articles/698090/), LWN.net
+  * 2016 - [In-band deduplication for Btrfs](https://lwn.net/Articles/679031/), LWN.net
   * 2021 - [Btrfs on zoned block devices](https://lwn.net/Articles/853308/), LWN.net
     >  :octocat: [Btrfs: zoned: automatic BG reclaim](https://lwn.net/ml/linux-btrfs/cover.1618494550.git.johannes.thumshirn@wdc.com/)
   * 2024 - [High-Performance Computing Storage Performance and Design Patterns—Btrfs and ZFS Performance for Different Use Cases](https://www.mdpi.com/2073-431X/13/6/139), MDPI
