@@ -82,6 +82,7 @@
     > :film_strip: [Presentation](https://www.youtube.com/watch?v=cBonhqDooPE)
   * 2013 - [Exploring and Exploiting the Multilevel Parallelism Inside SSDs for Improved Performance and Endurance](https://ieeexplore.ieee.org/document/6165265), IEEE Transactions on Computers
   * :octocat: [Btrfs: Do not use data_alloc_cluster in ssd mode](https://patchwork.kernel.org/project/linux-btrfs/patch/20170721114711.20229-1-hans.van.kranenburg@mendix.com/)
+  * :octocat: [Btrfs: Add hot data tracking functionality](https://lwn.net/Articles/397643/)
   * 2025 - [Storage Abstractions for SSDs: The Past, Present, and Future](https://dl.acm.org/doi/pdf/10.1145/3708992), ToS '25
   
   ### 3.1 Zoned Namespaces
