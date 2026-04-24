@@ -28,10 +28,16 @@
     > * [2018 - Facebook open-sources new suite of Linux kernel components and tools](https://engineering.fb.com/2018/10/30/open-source/linux/), 
   * 2006 - [B-trees, Shadowing, and Range-Operations](https://dominoweb.draco.res.ibm.com/262a285a5ee7b4818525723500570316.html), IBM Tech. Rep.
   * 2008 - [B-trees, shadowing, and clones](https://dl.acm.org/doi/10.1145/1326542.1326544), ACM Transactions on Storage
+  * 2009 - [A short history of btrfs](https://lwn.net/Articles/342892/), LWN.net
+  * 2009 - [Supporting transactions in btrfs](https://lwn.net/Articles/361457/), LWN.net
+  * 2013 - [The Btrfs filesystem: An introduction](https://lwn.net/Articles/576276/), LWN.net
   * 2013 - [BTRFS: The Linux B-tree filesystem](https://dl.acm.org/doi/10.1145/2501620.2501623), ACM Transactions on Storage
+  * 2016 - [Btrfs and high-speed devices](https://lwn.net/Articles/698090/), LWN.net
   * 2021 - [Btrfs on zoned block devices](https://lwn.net/Articles/853308/), LWN.net
     >  :octocat: [Btrfs: zoned: automatic BG reclaim](https://lwn.net/ml/linux-btrfs/cover.1618494550.git.johannes.thumshirn@wdc.com/)
   * 2024 - [High-Performance Computing Storage Performance and Design Patterns—Btrfs and ZFS Performance for Different Use Cases](https://www.mdpi.com/2073-431X/13/6/139), MDPI
+
+
 
   ### 1.2 Filesystem Aging
   * 1997 - [File system aging—increasing the relevance of file system benchmarks](https://dl.acm.org/doi/10.1145/258612.258689), SIGMETRICS '97
