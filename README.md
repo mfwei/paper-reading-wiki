@@ -30,16 +30,16 @@
   * 2008 - [B-trees, shadowing, and clones](https://dl.acm.org/doi/10.1145/1326542.1326544), ACM Transactions on Storage
   * 2009 - [A short history of btrfs](https://lwn.net/Articles/342892/), LWN.net
   * 2009 - [Supporting transactions in btrfs](https://lwn.net/Articles/361457/), LWN.net
+  * 2010 - :octocat: [Btrfs: Add hot data tracking functionality](https://lwn.net/Articles/397643/)
   * 2013 - [The Btrfs filesystem: An introduction](https://lwn.net/Articles/576276/), LWN.net
   * 2013 - [BTRFS: The Linux B-tree filesystem](https://dl.acm.org/doi/10.1145/2501620.2501623), ACM Transactions on Storage
   * 2016 - [Btrfs and high-speed devices](https://lwn.net/Articles/698090/), LWN.net
   * 2016 - [In-band deduplication for Btrfs](https://lwn.net/Articles/679031/), LWN.net
+  * 2017 - :octocat: [Btrfs: Do not use data_alloc_cluster in ssd mode](https://patchwork.kernel.org/project/linux-btrfs/patch/20170721114711.20229-1-hans.van.kranenburg@mendix.com/)
   * 2021 - [Btrfs on zoned block devices](https://lwn.net/Articles/853308/), LWN.net
     >  :octocat: [Btrfs: zoned: automatic BG reclaim](https://lwn.net/ml/linux-btrfs/cover.1618494550.git.johannes.thumshirn@wdc.com/)
   * 2024 - [High-Performance Computing Storage Performance and Design Patterns—Btrfs and ZFS Performance for Different Use Cases](https://www.mdpi.com/2073-431X/13/6/139), MDPI
-
-
-
+  
   ### 1.2 Filesystem Aging
   * 1997 - [File system aging—increasing the relevance of file system benchmarks](https://dl.acm.org/doi/10.1145/258612.258689), SIGMETRICS '97
   * 2008 - [A nine year study of file system and storage benchmarking](https://dl.acm.org/doi/10.1145/1367829.1367831), ToS '08
@@ -88,8 +88,6 @@
   * 2012 - [SFS: Random Write Considered Harmful in Solid State Drives](https://dl.acm.org/doi/10.5555/2208461.2208473), FAST '12
     > :film_strip: [Presentation](https://www.youtube.com/watch?v=cBonhqDooPE)
   * 2013 - [Exploring and Exploiting the Multilevel Parallelism Inside SSDs for Improved Performance and Endurance](https://ieeexplore.ieee.org/document/6165265), IEEE Transactions on Computers
-  * :octocat: [Btrfs: Do not use data_alloc_cluster in ssd mode](https://patchwork.kernel.org/project/linux-btrfs/patch/20170721114711.20229-1-hans.van.kranenburg@mendix.com/)
-  * :octocat: [Btrfs: Add hot data tracking functionality](https://lwn.net/Articles/397643/)
   * 2025 - [Storage Abstractions for SSDs: The Past, Present, and Future](https://dl.acm.org/doi/pdf/10.1145/3708992), ToS '25
   
   ### 3.1 Zoned Namespaces
