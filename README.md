@@ -110,12 +110,17 @@
 
   ###  2.2 Optimization for LSM-Tree / Key-value Stores / Database
   * 2022 - [Accelerating RocksDB for small-zone ZNS SSDs by parallel I/O mechanism](https://dl.acm.org/doi/10.1145/3564695.3564774), Middleware '22
+  * 2023 - [ZoneKV: A Space-Efficient Key-Value Store for ZNS SSDs](https://ieeexplore.ieee.org/document/10247926), DAC '23
   * 2023 - [WALTZ: Leveraging Zone Append to Tighten the Tail Latency of LSM Tree on ZNS SSD](https://dl.acm.org/doi/10.14778/3611479.3611495), VLDB '23
   * 2023 - [SplitZNS: Towards an Efficient LSM-Tree on Zoned Namespace SSDs](https://dl.acm.org/doi/10.1145/3608476), ACM Transactions on Architecture and Code Optimization '23
   * 2024 - [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/10.1145/3637488), ACM Transactions on Architecture and Code Optimization '24
+  * 2024 - [Prophet: Optimizing LSM-Based Key-Value Store on ZNS SSDs with File Lifetime Prediction and Compaction Compensation](https://www.msstconference.org/MSST-history/2024/Papers/msst24-3.1.pdf), MSST '24
+  * 2024 - [Ensuring Compaction and Zone Cleaning Efficiency through Same-Zone Compaction in ZNS Key-Value Store](https://www.msstconference.org/MSST-history/2024/Papers/msst24-9.2.pdf), MSST '24
   * 2024 - [Zone-Aware Persistent Deletion for Key-Value Store Engine](https://ieeexplore.ieee.org/document/10693671), NVMSA '24
   * 2024 - [ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends](https://dl.acm.org/doi/10.1145/3642963.3652203), CHEOPS '24
   * 2024 - [Dynamic zone redistribution for key-value stores on zoned namespaces SSDs](https://dl.acm.org/doi/10.1016/j.sysarc.2024.103159), Journal of Systems Architecture
+  * 2025 - [ZoomDB: : Building cost-effective key–value store engine on ZNS SSD and SMR HDD](https://dl.acm.org/doi/10.1016/j.sysarc.2025.103465), Journal of Systems Architecture
+  * 2025 - [Overlapping Aware Data Placement Optimizations for LSM Tree-Based Store on ZNS SSDs](https://dl.acm.org/doi/10.1145/3721287), ACM TACO
 
 ## 3. NVMe, Flash, PMEM, SSD  
   * 2012 - [SFS: Random Write Considered Harmful in Solid State Drives](https://dl.acm.org/doi/10.5555/2208461.2208473), FAST '12
