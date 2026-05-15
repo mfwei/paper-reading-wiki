@@ -6,7 +6,7 @@
 
 ## Table of Content 
 1. [File Systems](#1-file-systems)
-2. [Host interfacing, OS and Storage I/O Stack](#2-host-interfacing-os-and-storage-io-stack)
+2. [Zoned Namespaces Storages](#2-zoned-namespaces-storages)
 3. [NVMe, Flash, PMEM, SSD](#3-nvme-flash-pmem-ssd)
 4. [Storage Virtualization, Emulation, Simulation](#4-storage-virtualization-emulation-simulation)
 5. [Flash I/O Scheduling and quality-of-service/multi-tenancy](#5-flash-io-scheduling-and-quality-of-servicemulti-tenancy)
@@ -76,32 +76,21 @@
     > :octocat: [GitHub](https://github.com/stonet-research/msF2FS)
   * 2023 - [ZenFS+: Nurturing Performance and Isolation to ZenFS](https://ieeexplore.ieee.org/document/10070767), IEEE Access
   * 2023 - [BlzFS: Crash Consistent Log-structured File System Based on Byte-loggable Zone for ZNS SSD](https://ieeexplore.ieee.org/document/10360948), ICCD '23
-  * 2024 - [An Adaptive Zone-Grouping Scheme Enabling General-Purpose File Systems on ZNS SSDs](https://dl.acm.org/doi/10.1145/3688351.3689151), SYSTOR '24
     > * 2017 - [AutoStream: automatic stream management for multi-streamed SSDs](https://dl.acm.org/doi/10.1145/3078468.3078469), SYSTOR '17
   * 2024 - [MIDAS: Minimizing Write Amplification in Log-Structured Systems through Adaptive Group Number and Size Configuration](https://www.usenix.org/conference/fast24/presentation/oh), FAST '24
   
-## 2. Host interfacing, OS and Storage I/O Stack 
-  * 2021 - [ZNS+: Advanced Zoned Namespace Interface for Supporting In-Storage Zone Compaction](https://www.usenix.org/conference/osdi21/presentation/han), OSDI '21
-  * 2023 - [eZNS: An Elastic Zoned Namespace for Commodity ZNS SSDs](https://www.usenix.org/conference/osdi23/presentation/min), OSDI '23
-  * 2024 - [ZMS: Zone Abstraction for Mobile Flash Storage](https://www.usenix.org/conference/atc24/presentation/hwang), ATC '24
-    
-## 3. NVMe, Flash, PMEM, SSD  
-  * 2012 - [SFS: Random Write Considered Harmful in Solid State Drives](https://dl.acm.org/doi/10.5555/2208461.2208473), FAST '12
-    > :film_strip: [Presentation](https://www.youtube.com/watch?v=cBonhqDooPE)
-  * 2013 - [Exploring and Exploiting the Multilevel Parallelism Inside SSDs for Improved Performance and Endurance](https://ieeexplore.ieee.org/document/6165265), IEEE Transactions on Computers
-  * 2025 - [Storage Abstractions for SSDs: The Past, Present, and Future](https://dl.acm.org/doi/pdf/10.1145/3708992), ToS '25
-  
-  ### 3.1 Zoned Namespaces
+## 2. Zoned Namespaces Storages
   * 2020 - [Exploring Performance Characteristics of ZNS SSDs: Observation and Implication](https://ieeexplore.ieee.org/document/9188086), NVMSA '20
   * 2020 - [Zone Append: A New Way of Writing to Zoned Storage](https://www.usenix.org/conference/vault20/presentation/bjorling), VAULT '20
+  * 2021 - [ZNS+: Advanced Zoned Namespace Interface for Supporting In-Storage Zone Compaction](https://www.usenix.org/conference/osdi21/presentation/han), OSDI '21
   * 2021 - [ZNS: Avoiding the Block Interface Tax for Flash-based SSDs](https://www.usenix.org/conference/atc21/presentation/bjorling), ATC '21
   * 2021 - [Don't be a blockhead: zoned namespaces make work on conventional SSDs obsolete](https://dl.acm.org/doi/10.1145/3458336.3465300), HotOS '21
   * 2022 - [Understanding NVMe Zoned Namespace (ZNS) Flash SSD Storage Devices](https://arxiv.org/pdf/2206.01547.pdf), arXiv
   * 2022 - [Efficient Data Placement for Zoned Namespaces (ZNS) SSDs](https://dl.acm.org/doi/10.1007/978-3-031-21395-3_28), NPC '22
   * 2022 - [What You Can’t Forget: Exploiting Parallelism for Zoned Namespaces](https://www.hotstorage.org/2022/camera-ready/hotstorage22-24/pdf/hotstorage22-24.pdf), HotStorage '22
-  * 2022 - [Accelerating RocksDB for small-zone ZNS SSDs by parallel I/O mechanism](https://dl.acm.org/doi/10.1145/3564695.3564774), Middleware '22
   * 2023 - [A Free-Space Adaptive Runtime Zone-Reset Algorithm for Enhanced ZNS Efficiency](https://discos.sogang.ac.kr/file/2023/intl_conf/HotStorage_2023_S_Byeon.pdf), HotStorage '23
   * 2023 - [A Survey on the Integration of NAND Flash Storage in the Design of File Systems and the Host Storage Software Stack](https://arxiv.org/pdf/2307.11866.pdf), arXiv
+  * 2023 - [eZNS: An Elastic Zoned Namespace for Commodity ZNS SSDs](https://www.usenix.org/conference/osdi23/presentation/min), OSDI '23
   * 2023 - [Performance Characterization of NVMe Flash Devices with Zoned Namespaces (ZNS)](https://atlarge-research.com/pdfs/2023-cluster-zns-performance-kdoekemeijer.pdf), CLUSTER '23
     > :octocat: [GitHub](https://github.com/Krien/NVMeBenchmarks)
   * 2023 - [Understanding (Un)Written Contracts of NVMe ZNS Devices with zns-tools](https://arxiv.org/pdf/2307.11860.pdf), arXiv
@@ -110,14 +99,30 @@
   * 2024 - [zns-tools: An eBPF-powered, Cross-Layer Storage Profiling Tool for NVMe ZNS SSDs](https://atlarge-research.com/pdfs/2024-zns-tools.pdf), CHEOPS '24
     > :octocat: [GitHub](https://github.com/stonet-research/zns-tools)
   * 2024 - [Para-ZNS: Improving Small-Zone ZNS SSDs Parallelism Through Dynamic Zone Mapping](https://ieeexplore.ieee.org/document/10546863), DATE '24
-  * 2024 - [Optimizing Garbage Collection for ZNS SSDs via In-storage Data Migration and Address Remapping](https://dl.acm.org/doi/10.1145/3689336), ACM Transactions on Architecture and Code Optimization
-  * 2024 - [Dynamic zone redistribution for key-value stores on zoned namespaces SSDs](https://dl.acm.org/doi/10.1016/j.sysarc.2024.103159), Journal of Systems Architecture
-  ####  --- Random Write Area --- ####
+  * 2024 - [ZMS: Zone Abstraction for Mobile Flash Storage](https://www.usenix.org/conference/atc24/presentation/hwang), ATC '24
+  * 2024 - [Optimizing Garbage Collection for ZNS SSDs via In-storage Data Migration and Address Remapping](https://dl.acm.org/doi/10.1145/3689336), ACM TACO
+  * 2024 - [An Adaptive Zone-Grouping Scheme Enabling General-Purpose File Systems on ZNS SSDs](https://dl.acm.org/doi/10.1145/3688351.3689151), SYSTOR '24
+
+  ###  2.1 Random Write Area
   * 2025 - [ZRAID: Leveraging Zone Random Write Area (ZRWA) for Alleviating Partial Parity Tax in ZNS RAID](https://dl.acm.org/doi/10.1145/3669940.3707248) ASPLOS '25
   * 2025 - [Zebra: Efficient Redundant Array of Zoned Namespace SSDs Enabled by Zone Random Write Area (ZRWA)](https://ieeexplore.ieee.org/document/10946715/), HPCA'25
   * 2026 - [Braid-ZNS: Leveraging Zone Random Write Area for Efficient In-Storage Compression on ZNS SSDs](https://past.date-conference.com/proceedings-archive/2026/DATA/1240.pdf), DATE '26
-    
-    
+
+  ###  2.2 Optimization for LSM-Tree / Key-value Stores / Database
+  * 2022 - [Accelerating RocksDB for small-zone ZNS SSDs by parallel I/O mechanism](https://dl.acm.org/doi/10.1145/3564695.3564774), Middleware '22
+  * 2023 - [WALTZ: Leveraging Zone Append to Tighten the Tail Latency of LSM Tree on ZNS SSD](https://dl.acm.org/doi/10.14778/3611479.3611495), VLDB '23
+  * 2023 - [SplitZNS: Towards an Efficient LSM-Tree on Zoned Namespace SSDs](https://dl.acm.org/doi/10.1145/3608476), ACM Transactions on Architecture and Code Optimization '23
+  * 2024 - [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/10.1145/3637488), ACM Transactions on Architecture and Code Optimization '24
+  * 2024 - [Zone-Aware Persistent Deletion for Key-Value Store Engine](https://ieeexplore.ieee.org/document/10693671), NVMSA '24
+  * 2024 - [ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends](https://dl.acm.org/doi/10.1145/3642963.3652203), CHEOPS '24
+  * 2024 - [Dynamic zone redistribution for key-value stores on zoned namespaces SSDs](https://dl.acm.org/doi/10.1016/j.sysarc.2024.103159), Journal of Systems Architecture
+
+## 3. NVMe, Flash, PMEM, SSD  
+  * 2012 - [SFS: Random Write Considered Harmful in Solid State Drives](https://dl.acm.org/doi/10.5555/2208461.2208473), FAST '12
+    > :film_strip: [Presentation](https://www.youtube.com/watch?v=cBonhqDooPE)
+  * 2013 - [Exploring and Exploiting the Multilevel Parallelism Inside SSDs for Improved Performance and Endurance](https://ieeexplore.ieee.org/document/6165265), IEEE Transactions on Computers
+  * 2025 - [Storage Abstractions for SSDs: The Past, Present, and Future](https://dl.acm.org/doi/pdf/10.1145/3708992), ToS '25
+   
 ## 4. Storage Virtualization, Emulation, Simulation
   * 2018 - [The CASE of FEMU: Cheap, Accurate, Scalable and Extensible Flash Emulator](https://www.usenix.org/conference/fast18/presentation/li), FAST '18
     > :clipboard:	[Slides Show](https://www.usenix.org/sites/default/files/conference/protected-files/fast18_slides_li.pdf), :octocat: [GitHub](https://github.com/MoatLab/FEMU)
@@ -138,12 +143,6 @@
 
 ## 6. Database, Timeseries, VectorDB, Lookup, Indexes on Storage  
   * 2020 - [MyRocks: LSM-tree database storage engine serving Facebook's social graph](https://dl.acm.org/doi/10.14778/3415478.3415546), VLDB '20
-  * 2022 - [Accelerating RocksDB for Small-Zone ZNS SSDs by Parallel I/O](https://dl.acm.org/doi/10.1145/3564695.3564774), Middleware '22
-  * 2023 - [WALTZ: Leveraging Zone Append to Tighten the Tail Latency of LSM Tree on ZNS SSD](https://dl.acm.org/doi/10.14778/3611479.3611495), VLDB '23
-  * 2023 - [SplitZNS: Towards an Efficient LSM-Tree on Zoned Namespace SSDs](https://dl.acm.org/doi/10.1145/3608476), ACM Transactions on Architecture and Code Optimization '23
-  * 2024 - [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/10.1145/3637488), ACM Transactions on Architecture and Code Optimization '24
-  * 2024 - [Zone-Aware Persistent Deletion for Key-Value Store Engine](https://ieeexplore.ieee.org/document/10693671), NVMSA '24
-  * 2024 - [ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends](https://dl.acm.org/doi/10.1145/3642963.3652203), CHEOPS '24
  
 ## 7. Storage IO Characterization
   * 2000 - [A comparison of file system workloads](https://dl.acm.org/doi/10.5555/1267724.1267728), ATEC '00
