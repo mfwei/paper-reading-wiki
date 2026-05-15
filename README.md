@@ -119,7 +119,7 @@
   * 2024 - [Zone-Aware Persistent Deletion for Key-Value Store Engine](https://ieeexplore.ieee.org/document/10693671), NVMSA '24
   * 2024 - [ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends](https://dl.acm.org/doi/10.1145/3642963.3652203), CHEOPS '24
   * 2024 - [Dynamic zone redistribution for key-value stores on zoned namespaces SSDs](https://dl.acm.org/doi/10.1016/j.sysarc.2024.103159), Journal of Systems Architecture
-  * 2025 - [ZoomDB: : Building cost-effective key–value store engine on ZNS SSD and SMR HDD](https://dl.acm.org/doi/10.1016/j.sysarc.2025.103465), Journal of Systems Architecture
+  * 2025 - [ZoomDB: Building cost-effective key–value store engine on ZNS SSD and SMR HDD](https://dl.acm.org/doi/10.1016/j.sysarc.2025.103465), Journal of Systems Architecture
   * 2025 - [Overlapping Aware Data Placement Optimizations for LSM Tree-Based Store on ZNS SSDs](https://dl.acm.org/doi/10.1145/3721287), ACM TACO
 
 ## 3. NVMe, Flash, PMEM, SSD  
