@@ -36,6 +36,7 @@
   * 2016 - [Btrfs and high-speed devices](https://lwn.net/Articles/698090/), LWN.net
   * 2016 - [In-band deduplication for Btrfs](https://lwn.net/Articles/679031/), LWN.net
   * 2017 - :octocat: [Btrfs: Do not use data_alloc_cluster in ssd mode](https://patchwork.kernel.org/project/linux-btrfs/patch/20170721114711.20229-1-hans.van.kranenburg@mendix.com/)
+  * 2019 - [From Open-Channel SSDs to Zoned Namespaces](https://www.usenix.org/conference/vault19/presentation/bjorling), Vault '19
   * 2021 - [Btrfs on zoned block devices](https://lwn.net/Articles/853308/), LWN.net
     >  :octocat: [Btrfs: zoned: automatic BG reclaim](https://lwn.net/ml/linux-btrfs/cover.1618494550.git.johannes.thumshirn@wdc.com/)
   * 2024 - [High-Performance Computing Storage Performance and Design Patterns—Btrfs and ZFS Performance for Different Use Cases](https://www.mdpi.com/2073-431X/13/6/139), MDPI
@@ -99,6 +100,7 @@
   * 2022 - [Efficient Data Placement for Zoned Namespaces (ZNS) SSDs](https://dl.acm.org/doi/10.1007/978-3-031-21395-3_28), NPC '22
   * 2023 - [A Survey on the Integration of NAND Flash Storage in the Design of File Systems and the Host Storage Software Stack](https://arxiv.org/pdf/2307.11866.pdf), arXiv
   * 2022 - [What You Can’t Forget: Exploiting Parallelism for Zoned Namespaces](https://www.hotstorage.org/2022/camera-ready/hotstorage22-24/pdf/hotstorage22-24.pdf), HotStorage '22
+  * 2022 - [Accelerating RocksDB for small-zone ZNS SSDs by parallel I/O mechanism](https://dl.acm.org/doi/10.1145/3564695.3564774), Middleware '22
   * 2023 - [Performance Characterization of NVMe Flash Devices with Zoned Namespaces (ZNS)](https://atlarge-research.com/pdfs/2023-cluster-zns-performance-kdoekemeijer.pdf), CLUSTER '23
     > :octocat: [GitHub](https://github.com/Krien/NVMeBenchmarks)
   * 2023 - [Understanding (Un)Written Contracts of NVMe ZNS Devices with zns-tools](https://arxiv.org/pdf/2307.11860.pdf), arXiv
