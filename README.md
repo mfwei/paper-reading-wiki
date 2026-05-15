@@ -105,6 +105,7 @@
   * 2023 - [Performance Characterization of NVMe Flash Devices with Zoned Namespaces (ZNS)](https://atlarge-research.com/pdfs/2023-cluster-zns-performance-kdoekemeijer.pdf), CLUSTER '23
     > :octocat: [GitHub](https://github.com/Krien/NVMeBenchmarks)
   * 2023 - [Understanding (Un)Written Contracts of NVMe ZNS Devices with zns-tools](https://arxiv.org/pdf/2307.11860.pdf), arXiv
+  * 2023 - [Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs](https://ieeexplore.ieee.org/document/10360957), ICCAD '23
   * 2024 - [Ensuring Compaction and Zone Cleaning Efficiency through Same-Zone Compaction in ZNS Key-Value Store](https://www.msstconference.org/MSST-history/2024/Papers/msst24-9.2.pdf), MSST '24
   * 2024 - [zns-tools: An eBPF-powered, Cross-Layer Storage Profiling Tool for NVMe ZNS SSDs](https://atlarge-research.com/pdfs/2024-zns-tools.pdf), CHEOPS '24
     > :octocat: [GitHub](https://github.com/stonet-research/zns-tools)
