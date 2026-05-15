@@ -109,6 +109,11 @@
   * 2024 - [Para-ZNS: Improving Small-Zone ZNS SSDs Parallelism Through Dynamic Zone Mapping](https://ieeexplore.ieee.org/document/10546863), DATE '24
   * 2024 - [Optimizing Garbage Collection for ZNS SSDs via In-storage Data Migration and Address Remapping](https://dl.acm.org/doi/10.1145/3689336), ACM Transactions on Architecture and Code Optimization
   * 2024 - [Dynamic zone redistribution for key-value stores on zoned namespaces SSDs](https://dl.acm.org/doi/10.1016/j.sysarc.2024.103159), Journal of Systems Architecture
+  ####  --- Random Write Area --- ####
+  * 2025 - [ZRAID: Leveraging Zone Random Write Area (ZRWA) for Alleviating Partial Parity Tax in ZNS RAID](https://dl.acm.org/doi/10.1145/3669940.3707248) ASPLOS '25
+  * 2025 - [Zebra: Efficient Redundant Array of Zoned Namespace SSDs Enabled by Zone Random Write Area (ZRWA)](https://ieeexplore.ieee.org/document/10946715/), HPCA'25
+  * 2026 - [Braid-ZNS: Leveraging Zone Random Write Area for Efficient In-Storage Compression on ZNS SSDs](https://past.date-conference.com/proceedings-archive/2026/DATA/1240.pdf), DATE '26
+    
     
 ## 4. Storage Virtualization, Emulation, Simulation
   * 2018 - [The CASE of FEMU: Cheap, Accurate, Scalable and Extensible Flash Emulator](https://www.usenix.org/conference/fast18/presentation/li), FAST '18
