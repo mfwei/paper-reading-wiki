@@ -98,12 +98,15 @@
   * 2021 - [Don't be a blockhead: zoned namespaces make work on conventional SSDs obsolete](https://dl.acm.org/doi/10.1145/3458336.3465300), HotOS '21
   * 2022 - [Understanding NVMe Zoned Namespace (ZNS) Flash SSD Storage Devices](https://arxiv.org/pdf/2206.01547.pdf), arXiv
   * 2022 - [Efficient Data Placement for Zoned Namespaces (ZNS) SSDs](https://dl.acm.org/doi/10.1007/978-3-031-21395-3_28), NPC '22
-  * 2023 - [A Survey on the Integration of NAND Flash Storage in the Design of File Systems and the Host Storage Software Stack](https://arxiv.org/pdf/2307.11866.pdf), arXiv
+  
   * 2022 - [What You Can’t Forget: Exploiting Parallelism for Zoned Namespaces](https://www.hotstorage.org/2022/camera-ready/hotstorage22-24/pdf/hotstorage22-24.pdf), HotStorage '22
   * 2022 - [Accelerating RocksDB for small-zone ZNS SSDs by parallel I/O mechanism](https://dl.acm.org/doi/10.1145/3564695.3564774), Middleware '22
+  * 2023 - [A Free-Space Adaptive Runtime Zone-Reset Algorithm for Enhanced ZNS Efficiency](https://discos.sogang.ac.kr/file/2023/intl_conf/HotStorage_2023_S_Byeon.pdf), HotStorage '23
+  * 2023 - [A Survey on the Integration of NAND Flash Storage in the Design of File Systems and the Host Storage Software Stack](https://arxiv.org/pdf/2307.11866.pdf), arXiv
   * 2023 - [Performance Characterization of NVMe Flash Devices with Zoned Namespaces (ZNS)](https://atlarge-research.com/pdfs/2023-cluster-zns-performance-kdoekemeijer.pdf), CLUSTER '23
     > :octocat: [GitHub](https://github.com/Krien/NVMeBenchmarks)
   * 2023 - [Understanding (Un)Written Contracts of NVMe ZNS Devices with zns-tools](https://arxiv.org/pdf/2307.11860.pdf), arXiv
+  * 2024 - [Ensuring Compaction and Zone Cleaning Efficiency through Same-Zone Compaction in ZNS Key-Value Store](https://www.msstconference.org/MSST-history/2024/Papers/msst24-9.2.pdf), MSST '24
   * 2024 - [zns-tools: An eBPF-powered, Cross-Layer Storage Profiling Tool for NVMe ZNS SSDs](https://atlarge-research.com/pdfs/2024-zns-tools.pdf), CHEOPS '24
     > :octocat: [GitHub](https://github.com/stonet-research/zns-tools)
   * 2024 - [Para-ZNS: Improving Small-Zone ZNS SSDs Parallelism Through Dynamic Zone Mapping](https://ieeexplore.ieee.org/document/10546863), DATE '24
