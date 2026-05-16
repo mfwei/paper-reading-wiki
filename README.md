@@ -95,6 +95,7 @@
     > :octocat: [GitHub](https://github.com/Krien/NVMeBenchmarks)
   * 2023 - [Understanding (Un)Written Contracts of NVMe ZNS Devices with zns-tools](https://arxiv.org/pdf/2307.11860.pdf), arXiv
   * 2023 - [Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs](https://ieeexplore.ieee.org/document/10360957), ICCAD '23
+  * 2023 - [zCeph: Achieving High Performance On Storage System Using Small Zoned ZNS SSD](https://dl.acm.org/doi/10.1145/3555776.3577758), SAC '23
   * 2024 - [Ensuring Compaction and Zone Cleaning Efficiency through Same-Zone Compaction in ZNS Key-Value Store](https://www.msstconference.org/MSST-history/2024/Papers/msst24-9.2.pdf), MSST '24
   * 2024 - [zns-tools: An eBPF-powered, Cross-Layer Storage Profiling Tool for NVMe ZNS SSDs](https://atlarge-research.com/pdfs/2024-zns-tools.pdf), CHEOPS '24
     > :octocat: [GitHub](https://github.com/stonet-research/zns-tools)
@@ -185,7 +186,6 @@
       > :clipboard:	[Slides Show](https://www.snia.org/sites/default/files/sta/SNIA-STA-Storage-Trends-2024-Webinar.pdf), :film_strip: [Video](https://www.youtube.com/watch?v=l8qPrFtY6qE)
       
 ## 9. Other applications
-  * 2023 - [zCeph: Achieving High Performance On Storage System Using Small Zoned ZNS SSD](https://dl.acm.org/doi/10.1145/3555776.3577758), SAC '23
   * 2023 - [Improving Storage Systems Using Machine Learning](https://dl.acm.org/doi/10.1145/3568429), ToS '23
     
 ## 10. Books, Courses: 
