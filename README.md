@@ -164,7 +164,8 @@
     > :octocat: [GitHub](https://github.com/facebook/rocksdb/wiki/RocksDB-Trace,-Replay,-Analyzer,-and-Workload-Generation)
   * 2022 - [Extracting and characterizing I/O behavior of HPC workloads](https://ieeexplore.ieee.org/abstract/document/9912707), CLUSTER '22
   * 2022 - [Data Storage System Requirement for Autonomous Vehicle](https://ieeexplore.ieee.org/abstract/document/10003785), ICCAS '22
-  * 2023 - [Characterization of i/o behaviors in cloud storage workloads](https://ieeexplore.ieee.org/abstract/document/10089497), ToC, '23
+  * 2023 - [Characterization of i/o behaviors in cloud storage workloads](https://ieeexplore.ieee.org/abstract/document/10089497), ToC '23
+  * 2023 - [An In-depth Comparative Analysis of Cloud Block Storage Workloads: Findings and Implications](https://dl.acm.org/doi/10.1145/3572779), ToS '23
   * 2024 - [Quantitative Analysis of Storage Requirement for Autonomous Vehicles](https://dl.acm.org/doi/abs/10.1145/3655038.3665948), HotStorage '24
   * 2025 - [IO Characterizing Study of Offloading LLM Models](https://dl.acm.org/doi/pdf/10.1145/3719330.3721230), CHEOPS '25
   * 2025 - [LLM Training Workload IO Characteristics](https://ieeexplore.ieee.org/abstract/document/11044158), ISCAS '25
