@@ -158,6 +158,7 @@
     > :octocat: [GitHub](https://github.com/brianfrankcooper/YCSB)
   * 2010 - [Workload characterization of a leadership class storage cluster](https://ieeexplore.ieee.org/abstract/document/5668066), PDSW '10
   * 2011 - [Design implications for enterprise storage systems via multi-dimensional trace analysis](https://dl.acm.org/doi/10.1145/2043556.2043562), SOSP '11
+  * 2013 - [Virtual Machine Workloads: The Case for New NAS Benchmarks](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1889&context=hmc_fac_pub), FAST '13
   * 2016 - [Storage Workload Identification](https://dl.acm.org/doi/pdf/10.1145/2818716), ToS '16
   * 2018 - [I/O characteristics discovery in cloud storage systems](https://ieeexplore.ieee.org/abstract/document/8457797), CLOUD '18
   * 2020 - [Characterizing, Modeling, and Benchmarking RocksDB Key-Value Workloads at Facebook](https://www.usenix.org/conference/fast20/presentation/cao-zhichao), FAST '20
